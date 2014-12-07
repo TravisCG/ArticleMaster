@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/fontbox-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/jempbox-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/pdfbox-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/pdfbox-lucene-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/preflight-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/xmpbox-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/lucene-analyzers-common-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/lucene-core-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/lucene-queryparser-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/bcmail-jdk15on-1.51.jar"/>
+	<classpathentry kind="lib" path="/home/travis/workspace/jars/bcprov-jdk15on-1.51.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
